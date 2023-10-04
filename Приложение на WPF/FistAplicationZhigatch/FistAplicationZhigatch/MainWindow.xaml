@@ -1,0 +1,49 @@
+﻿<Window x:Class="FistAplicationZhigatch.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FistAplicationZhigatch"
+        mc:Ignorable="d"
+        Title="Главное окно" Height="800" Width="1000"
+        Background="#333">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <!--Три строки с соотношением частей-->
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal"
+                    HorizontalAlignment="Center">
+            <TextBlock 
+                Text="Практические работы на WPF"
+                Style="{StaticResource ResourceKey=TblStyle}" Background="#FFCBAAFF" FontFamily="Arial Black" FontSize="18" TextAlignment="Center" Foreground="White"
+                />
+            <!--Фонт это шрифт, текст врап перенос текста-->
+            <!--exe файл не будет работать без отсальых файлов-->
+            <Button Name="BtnHello"
+                    Width="112"
+                    Height="50"
+                    Content="Приветствие"
+                    Click="BtnHello_Click" 
+                    Background="#FFCBAAFF" 
+                    FontFamily="Arial Black" 
+                    FontSize="14" 
+                    VerticalAlignment="Center" Foreground="White"/>
+
+        </StackPanel>
+        <Frame Grid.Row="1"
+               Name="FrameMain">
+
+        </Frame>
+        <StackPanel Grid.Row="2"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Center">
+            <TextBlock Text="Строка состояния"
+                       Style="{StaticResource ResourceKey=TblStyle}" Background="#FFCBAAFF" FontFamily="Arial Black" TextAlignment="Center" Foreground="White"/>
+            <Button x:Name="NavigateButton" Width="88" Height="51" Content="Перейти" Click="NavigateButton_Click" Background="#FFCBAAFF" Foreground="White" FontFamily="Arial Black" FontSize="14" />
+        </StackPanel>
+    </Grid>
+</Window>
