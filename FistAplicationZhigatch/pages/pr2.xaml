@@ -1,0 +1,89 @@
+﻿<Page x:Class="FistAplicationZhigatch.pages.pr2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FistAplicationZhigatch.pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="800"
+      Title="pr2">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal"
+                    HorizontalAlignment="Center">
+
+            <StackPanel  Orientation="Vertical"
+                     VerticalAlignment="Center">
+                <StackPanel Orientation="Horizontal" 
+                        HorizontalAlignment="Center">
+                    <TextBlock Text="Введите значение X" 
+                           Margin="10" Foreground="#FFCBAAFF" FontFamily="Arial Black"/>
+                    <TextBox Name="txtX" Margin="10" Width="100" Background="{x:Null}" BorderBrush="#FFCBAAFF" Foreground="#FFCBAAFF" FontFamily="Arial Black"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" 
+                        HorizontalAlignment="Center">
+                    <TextBlock Text="Введите значение Y" 
+                           Margin="10" Foreground="#FFCBAAFF" FontFamily="Arial Black"/>
+                    <TextBox Name="txtY" Margin="10" Width="100" Background="{x:Null}" BorderBrush="#FFCBAAFF" Foreground="#FFCBAAFF" FontFamily="Arial Black"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" 
+                        HorizontalAlignment="Center">
+                    <TextBlock Text="Введите значение Z" 
+                           Margin="10" Foreground="#FFCBAAFF" FontFamily="Arial Black"/>
+                    <TextBox Name="txtZ" Margin="10" Width="100" Background="{x:Null}" Foreground="#FFCBAAFF" FontFamily="Arial Black" BorderBrush="#FFCBAAFF"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Orientation="Vertical"
+                        VerticalAlignment="Center"
+                        Margin="20" Background="#FF333333">
+                <RadioButton GroupName="Function" 
+             Name="rbtSin"
+             Content="Sin(x)" 
+             IsChecked="True"
+             Margin="10"
+             FontFamily="Arial Black"
+             Foreground="#FFCBAAFF" />
+                <RadioButton GroupName="Function" 
+             Name="rbtCos"
+             Content="Cos(x)"
+             Margin="10"
+             FontFamily="Arial Black"
+             Foreground="#FFCBAAFF" />
+                <RadioButton GroupName="Function" 
+             Name="rbtExp"
+             Content="Exp(x)"
+             Margin="10"
+             FontFamily="Arial Black"
+             Foreground="#FFCBAAFF" />
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Orientation="Vertical"
+                    HorizontalAlignment="Center">
+            <TextBlock Text="Результат выполнения программы:"
+                       Margin="10" Foreground="#FFCBAAFF" FontFamily="Arial Black" FontSize="14"/>
+            <ListBox Name="lstResult" Margin="10"
+                     Height="150" Background="#FF333333" BorderBrush="#FFCBAAFF" Foreground="#FFCBAAFF" FontFamily="Arial Black"/>
+        </StackPanel>
+
+        <DockPanel Grid.Row="2" 
+                   HorizontalAlignment="Center">
+            <Button Name="btnCalc" Height="50" 
+                    Width="150"
+                    Content="Выполнить" Margin="10"
+                    Click="btnCalc_Click" Background="#FFCBAAFF" Foreground="White" FontFamily="Arial Black"/>
+            <Button Name="btnClear" Height="50" 
+                    Width="150"
+                    Content="Очистить" Margin="10"
+                    Click="btnClear_Click" Foreground="White" FontFamily="Arial Black" Background="#FFCBAAFF"/>
+            <Button Name="btnpr3" Height="50"
+                    Width="150"
+                    Content="Перейти" Margin="10"
+                    Click="btnpr3_Click" Foreground="White" FontFamily="Arial Black" Background="#FFCBAAFF"/>
+        </DockPanel>
+    </Grid>
+</Page>

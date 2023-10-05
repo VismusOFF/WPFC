@@ -1,0 +1,83 @@
+C:\Users\student\Desktop\ИСП 21.1А\Жигач Д.Н\FistAplicationZhigatch\FistAplicationZhigatch\bin\Debug\FistAplicationZhigatch.exe.config
+C:\Users\student\Desktop\ИСП 21.1А\Жигач Д.Н\FistAplicationZhigatch\FistAplicationZhigatch\bin\Debug\FistAplicationZhigatch.exe
+C:\Users\student\Desktop\ИСП 21.1А\Жигач Д.Н\FistAplicationZhigatch\FistAplicationZhigatch\bin\Debug\FistAplicationZhigatch.pdb
+C:\Users\student\Desktop\ИСП 21.1А\Жигач Д.Н\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\ИСП 21.1А\Жигач Д.Н\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\App.g.cs
+C:\Users\student\Desktop\ИСП 21.1А\Жигач Д.Н\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch_MarkupCompile.cache
+C:\Users\student\Desktop\ИСП 21.1А\Жигач Д.Н\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch_MarkupCompile.lref
+C:\Users\student\Desktop\ИСП 21.1А\Жигач Д.Н\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\ИСП 21.1А\Жигач Д.Н\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.g.resources
+C:\Users\student\Desktop\ИСП 21.1А\Жигач Д.Н\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.Properties.Resources.resources
+C:\Users\student\Desktop\ИСП 21.1А\Жигач Д.Н\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.csproj.GenerateResource.cache
+C:\Users\student\Desktop\ИСП 21.1А\Жигач Д.Н\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ИСП 21.1А\Жигач Д.Н\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.exe
+C:\Users\student\Desktop\ИСП 21.1А\Жигач Д.Н\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.pdb
+C:\Users\student\Desktop\ИСП 21.1А\Жигач Д.Н\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\App.baml
+C:\Users\student\Desktop\ИСП 21.1А\Жигач Д.Н\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\PageAutorization.g.cs
+C:\Users\student\Desktop\ИСП 21.1А\Жигач Д.Н\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\PageAutorization.baml
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\bin\Debug\FistAplicationZhigatch.exe.config
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\bin\Debug\FistAplicationZhigatch.exe
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\bin\Debug\FistAplicationZhigatch.pdb
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.csproj.AssemblyReference.cache
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.csproj.SuggestedBindingRedirects.cache
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\MainWindow.g.cs
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\PageAutorization.g.cs
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\App.g.cs
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch_MarkupCompile.cache
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch_MarkupCompile.lref
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\App.baml
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\MainWindow.baml
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\PageAutorization.baml
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.g.resources
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.Properties.Resources.resources
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.csproj.GenerateResource.cache
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.csproj.CoreCompileInputs.cache
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.exe
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.pdb
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr1.g.cs
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr1.baml
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr2.g.cs
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr2.baml
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr3.g.cs
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr3.baml
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\bin\Debug\FistAplicationZhigatch.exe.config
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\bin\Debug\FistAplicationZhigatch.exe
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\bin\Debug\FistAplicationZhigatch.pdb
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\PageAutorization.g.cs
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr1.g.cs
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr2.g.cs
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr3.g.cs
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch_MarkupCompile.cache
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch_MarkupCompile.lref
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\App.baml
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\PageAutorization.baml
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr1.baml
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr2.baml
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr3.baml
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.g.resources
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.Properties.Resources.resources
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.exe
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.pdb
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr6.g.cs
+C:\Users\Студент\Desktop\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr6.baml
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr6.g.cs
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr6.baml
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr7.g.cs
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr7.baml
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr8.g.cs
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\pages\pr8.baml
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\bin\Debug\EntityFramework.dll
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\bin\Debug\EntityFramework.SqlServer.dll
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\bin\Debug\System.Data.SQLite.dll
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\bin\Debug\EntityFramework.xml
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\bin\Debug\EntityFramework.SqlServer.xml
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\bin\Debug\System.Data.SQLite.xml
+F:\Приложение на WPF\FistAplicationZhigatch\FistAplicationZhigatch\obj\Debug\FistAplicationZhigatch.csproj.CopyComplete
